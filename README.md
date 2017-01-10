@@ -13,10 +13,12 @@ This project is dedicated to the memory of
 
 ## The NVdB
 
-The _Nuovo vocabolario di base (NVdB) della lingua italiana_ (NVdB, 2016-11-23)
-by **Isabella Chiari** and **Tullio De Mauro**
-contains the (roughly) 7,000 most common Italian words,
-or perceived as such by native speakers.
+The _Nuovo vocabolario di base della lingua italiana_ (NVdB, 2016-11-23)
+curated by **Isabella Chiari** and **Tullio De Mauro**
+with the help of **Francesca Ferrucci**
+contains the roughly 7,000 most common
+(or perceived as such by native speakers)
+Italian words.
 
 See
 [the Web page](http://www.internazionale.it/opinione/tullio-de-mauro/2016/12/23/il-nuovo-vocabolario-di-base-della-lingua-italiana)
@@ -24,7 +26,7 @@ for details.
 
 For archival purposes,
 a copy of the PDF file is stored in this repository,
-as [nuovovocabolariodibase.pdf](nuovovocabolariodibase.pdf).
+as [20170108.nvdb.pdf](20170108.nvdb.pdf).
 This PDF file was retrieved from the URL
 ``https://dl.dropboxusercontent.com/u/236058/nuovovocabolariodibase.pdf``
 (contained in the page linked above) on 2017-01-08.
