@@ -13,9 +13,9 @@ This project is dedicated to the memory of
 
 ## The NVdB
 
-The _Nuovo vocabolario di base della lingua italiana_ (NVdB, 2016-11-23)
+The _Nuovo vocabolario di base della lingua italiana_ (NVdB, 2016-11-23),
 curated by **Isabella Chiari** and **Tullio De Mauro**
-with the help of **Francesca Ferrucci**
+with the help of **Francesca Ferrucci**,
 contains the roughly 7,000 most common
 (or perceived as such by native speakers)
 Italian words.
