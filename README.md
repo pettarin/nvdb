@@ -22,10 +22,11 @@ Italian words.
 
 See
 [the Web page](http://www.internazionale.it/opinione/tullio-de-mauro/2016/12/23/il-nuovo-vocabolario-di-base-della-lingua-italiana)
-for details.
+for details, or consult the
+[markdown version available in this repository](article.md).
 
 For archival purposes,
-a copy of the PDF file is stored in this repository,
+a copy of the PDF file is also stored in this repository,
 as [20170108.nvdb.pdf](20170108.nvdb.pdf).
 This PDF file was retrieved from the URL
 ``https://dl.dropboxusercontent.com/u/236058/nuovovocabolariodibase.pdf``
