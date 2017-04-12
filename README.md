@@ -41,27 +41,27 @@ This repository contains the following processed files:
    extracted from the NVdB PDF file:
 
     ```plain
-Internazionale | url
-Dizionario
-Il Nuovo vocabolario di base
-della lingua italiana
+    Internazionale | url
+    Dizionario
+    Il Nuovo vocabolario di base
+    della lingua italiana
 
-A cura di Tullio De Mauro
-23 novembre 2016
+    A cura di Tullio De Mauro
+    23 novembre 2016
 
-A
+    A
 
-1a s.f. e m.inv., 2a prep., abbagliante p.pres., agg., s.m., abbaiare v.intr. e tr., abbandonare v.tr., abbandonato p.pass., agg., s.m.,
-abbandono s.m., abbassare v.tr., abbasso avv., inter., abbastanza avv., abbattere v.tr., abbeverare v.tr., abbigliamento s.m.,
-abbinare v.tr., abbonamento s.m., 1abbonare v.tr., abbondante p.pres., agg., abbondare v.intr., abbottonare v.tr., 1abbracciare
-v.tr., abbraccio s.m., abbreviare v.tr., abbronzare v.tr., abete s.m., abile agg., abilità s.f.inv., abisso s.m., abitante p.pres., agg.,
-s.m., abitare v.intr. e tr., s.m., abitazione s.f., abito s.m., abituale agg., abituare v.tr., abitudine s.f., abolire v.tr., abortire v.in-
-tr., aborto s.m., abruzzese agg., s.m. e f., abusare v.intr., abuso s.m., acca s.f. e m.inv., accademia s.f., accademico agg., s.m.,
-accadere v.intr., accampamento s.m., accanto avv., accappatoio s.m., accarezzare v.tr., accattone s.m., accavallare v.tr., acceca-
-re v.tr., v.intr., accedere v.intr., accelerare v.tr. e intr., acceleratore agg., s.m., accelerazione s.f., accendere v.tr., accendino s.m.,
-accennare v.tr. e intr., accenno s.m., accentare v.tr., accertamento s.m., accertare v.tr., acceso p.pass., agg., accesso s.m., acces-
-sorio agg., s.m., accetta s.f., accettabile agg., accettare v.tr., acchiappare v.tr., acciacco s.m., acciaio s.m., accidente s.m., acciuga
-...
+    1a s.f. e m.inv., 2a prep., abbagliante p.pres., agg., s.m., abbaiare v.intr. e tr., abbandonare v.tr., abbandonato p.pass., agg., s.m.,
+    abbandono s.m., abbassare v.tr., abbasso avv., inter., abbastanza avv., abbattere v.tr., abbeverare v.tr., abbigliamento s.m.,
+    abbinare v.tr., abbonamento s.m., 1abbonare v.tr., abbondante p.pres., agg., abbondare v.intr., abbottonare v.tr., 1abbracciare
+    v.tr., abbraccio s.m., abbreviare v.tr., abbronzare v.tr., abete s.m., abile agg., abilità s.f.inv., abisso s.m., abitante p.pres., agg.,
+    s.m., abitare v.intr. e tr., s.m., abitazione s.f., abito s.m., abituale agg., abituare v.tr., abitudine s.f., abolire v.tr., abortire v.in-
+    tr., aborto s.m., abruzzese agg., s.m. e f., abusare v.intr., abuso s.m., acca s.f. e m.inv., accademia s.f., accademico agg., s.m.,
+    accadere v.intr., accampamento s.m., accanto avv., accappatoio s.m., accarezzare v.tr., accattone s.m., accavallare v.tr., acceca-
+    re v.tr., v.intr., accedere v.intr., accelerare v.tr. e intr., acceleratore agg., s.m., accelerazione s.f., accendere v.tr., accendino s.m.,
+    accennare v.tr. e intr., accenno s.m., accentare v.tr., accertamento s.m., accertare v.tr., acceso p.pass., agg., accesso s.m., acces-
+    sorio agg., s.m., accetta s.f., accettabile agg., accettare v.tr., acchiappare v.tr., acciacco s.m., acciaio s.m., accidente s.m., acciuga
+    ...
     ```
 
 2. [``nvdb.full.txt``](nvdb.full.txt),
